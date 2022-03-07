@@ -105,3 +105,11 @@ git status
 touch suma2
 vim
 exit
+ll
+git branch
+git branch brnach1
+git branch
+git checkout branch1
+git branch
+git checkout branch1
+exit
